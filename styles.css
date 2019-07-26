@@ -1,0 +1,90 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 5px; 
+  }
+
+  li {
+    display: inline; 
+
+  }
+
+.navbar {
+    background-color: #aa96da; 
+    color: white; 
+    padding-left: 10px; 
+    padding-top: 20px;
+    padding-bottom: 20px;  
+    word-spacing: 10px; 
+}
+
+body {
+    margin: 0; 
+    font-family: 'Varela Round', 'sans-serif'; 
+}
+
+#curriculum {
+    width: 60%; 
+    background-color: #f9f6f2; 
+    /* padding-top: 20px;
+    padding-bottom: 20px;  */
+    padding: 20px; 
+    margin: 10px;   
+    display: inline-block; 
+    word-spacing: 10px; 
+    text-align: center; 
+    border-top: 0;
+   
+}
+
+#status {
+    width: 60%; 
+    display: inline-block; 
+    background-color: #f9f6f2; 
+    padding: 20px; 
+    margin: 10px; 
+}
+
+h1 {
+    margin-left: 10px; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+h2 {
+    text-decoration: underline; 
+}
+
+.col-container {
+    display: table; /* Make the container element behave like a table */
+    width: 100%; /* Set full-width to expand the whole page */
+    text-align: center; 
+    background-color: #f7e8e8;
+    padding: 20px; 
+}
+
+.col {
+    display: table-cell; /* Make elements inside the container behave like table cells */
+}
+
+button {
+    font-size: 14px; 
+    border-radius: 5%; 
+}
+
+.studies {
+    background-color: #f7e8e8; 
+    padding: 25px; 
+}
+
+.unit {
+    /* background-color: #f9f6f2;  */
+    margin-bottom: 10px; 
+    padding: 10px; 
+    border-style: ridge; 
+    border-width: 2px; 
+    background-color: #f9f6f2; 
+
+}
+
